@@ -1,19 +1,45 @@
 # Citi-Bike-google-sheet-project
 Analyzing City Bikes Data with Google Sheets**
+Sheets**
 
-**Description:**
-In this project, I performed comprehensive data analysis on city bikes data using Google Sheets. I employed descriptive and predictive statistical techniques to uncover patterns and trends within the dataset. The analysis included examining key metrics such as ridership patterns, usage trends, and predictive modeling to forecast future demand.
+# 🚴‍♀️ Citi Bike Google Sheets Project  
 
-**Key Highlights:**
-- Utilized descriptive statistics to understand the distribution and summary statistics of the data.
-- Employed predictive statistics to forecast future demand and optimize bike allocation strategies.
-- Created visually appealing graphs and visualizations to present the findings effectively.
-- Extracted actionable insights to inform decision-making processes for bike-sharing initiatives.
+## 📘 Project Overview  
+In this project, I performed a comprehensive **data analysis on Citi Bike data** using **Google Sheets**.  
+The goal was to uncover key patterns and trends within the dataset by applying both **descriptive** and **predictive** statistical techniques.  
 
-**Tools Used:**
-- Google Sheets for data manipulation and analysis.
-- Descriptive and predictive statistical techniques.
-- Data visualization tools for creating insightful graphs and charts.
+The analysis explored metrics such as **ridership behavior**, **usage trends**, and **forecasting demand**, ultimately transforming raw data into actionable insights that can improve bike-sharing operations.  
 
-**Outcome:**
-The analysis provided valuable insights into city bike usage patterns, enabling stakeholders to make data-driven decisions to enhance bike-sharing services and infrastructure.
+---
+
+## 🎯 Key Highlights  
+- ✅ Utilized **descriptive statistics** to understand data distribution and summary metrics.  
+- 📊 Applied **predictive analytics** to forecast future demand and optimize bike allocation strategies.  
+- 🎨 Designed **interactive and visually appealing charts** to effectively communicate findings.  
+- 💡 Extracted **actionable insights** to support data-driven decision-making for urban mobility improvements.  
+
+---
+
+## 🛠 Tools & Techniques  
+- **Google Sheets** → for data cleaning, analysis, and visualization  
+- **Descriptive Statistics** → mean, median, mode, frequency distributions  
+- **Predictive Techniques** → trend analysis and simple forecasting  
+- **Data Visualization** → bar charts, line graphs, pie charts, and dashboards  
+
+---
+
+## 📊 Outcome  
+The analysis provided meaningful insights into **Citi Bike usage patterns**, helping stakeholders make **informed decisions** on fleet management and infrastructure planning.  
+This project demonstrates the analytical power of **Google Sheets** for both **descriptive and predictive analytics** without requiring advanced programming tools.  
+
+---
+
+## 🧩 Project Structure  
+
+
+---
+
+## 💡 Author  
+**Chioma Francisca Nwosu (Valen)**  
+📍 Data Analyst | Storytelling with Data  
+🔗 [GitHub Profile](https://github.com/) | [LinkedIn](https://www.linkedin.com/)
