@@ -1,6 +1,11 @@
 # Citi-Bike-google-sheet-project
 Analyzing City Bikes Data with Google Sheets**
 
+## Most Popular Pick-Up Stations for Citi Bikes
+
+![Most Popular Pick-Up Stations for Citi Bikes](The%20most%20popular%20pick%20up%20stations%20for%20Citi%20Bikes.jpg)
+
+
 ## Project Overview  
 In this project, I performed a comprehensive **data analysis on Citi Bike data** using **Google Sheets**.  
 The goal was to uncover key patterns and trends within the dataset by applying both **descriptive** and **predictive** statistical techniques.  
